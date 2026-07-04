@@ -1,0 +1,128 @@
+{
+  "weeks": 24,
+  "totalTerms": 2342,
+  "weekTermCounts": [
+    {
+      "week": 1,
+      "title": "Hóa học đại cương và cấu tạo nguyên tử",
+      "terms": 88
+    },
+    {
+      "week": 2,
+      "title": "Bảng tuần hoàn, nguyên tố, ion và hợp chất thông dụng",
+      "terms": 210
+    },
+    {
+      "week": 3,
+      "title": "Đại lượng, đơn vị và tính toán hóa học",
+      "terms": 91
+    },
+    {
+      "week": 4,
+      "title": "Liên kết, cấu trúc phân tử và trạng thái vật chất",
+      "terms": 82
+    },
+    {
+      "week": 5,
+      "title": "Dung dịch, axit-bazơ và cân bằng",
+      "terms": 83
+    },
+    {
+      "week": 6,
+      "title": "Phản ứng hóa học và hóa lượng",
+      "terms": 79
+    },
+    {
+      "week": 7,
+      "title": "Hóa vô cơ và phức chất",
+      "terms": 80
+    },
+    {
+      "week": 8,
+      "title": "Hóa hữu cơ: nhóm chức và danh pháp",
+      "terms": 110
+    },
+    {
+      "week": 9,
+      "title": "Cơ chế và phản ứng hữu cơ",
+      "terms": 92
+    },
+    {
+      "week": 10,
+      "title": "Hóa phân tích và đo lường",
+      "terms": 100
+    },
+    {
+      "week": 11,
+      "title": "Phổ học, sắc ký và phân tích thiết bị",
+      "terms": 110
+    },
+    {
+      "week": 12,
+      "title": "Hóa lý",
+      "terms": 92
+    },
+    {
+      "week": 13,
+      "title": "Điện hóa",
+      "terms": 76
+    },
+    {
+      "week": 14,
+      "title": "Hóa sinh",
+      "terms": 98
+    },
+    {
+      "week": 15,
+      "title": "Hóa học polymer",
+      "terms": 87
+    },
+    {
+      "week": 16,
+      "title": "Hóa dược và bào chế",
+      "terms": 87
+    },
+    {
+      "week": 17,
+      "title": "Hóa học vật liệu, nano và bề mặt",
+      "terms": 84
+    },
+    {
+      "week": 18,
+      "title": "Hóa môi trường, độc chất và hóa học xanh",
+      "terms": 87
+    },
+    {
+      "week": 19,
+      "title": "Hóa công nghiệp và kỹ thuật hóa học",
+      "terms": 94
+    },
+    {
+      "week": 20,
+      "title": "Hóa dầu, nhiên liệu và năng lượng",
+      "terms": 80
+    },
+    {
+      "week": 21,
+      "title": "Dụng cụ, thao tác và quản lý phòng thí nghiệm",
+      "terms": 112
+    },
+    {
+      "week": 22,
+      "title": "An toàn hóa chất, GHS và SDS",
+      "terms": 99
+    },
+    {
+      "week": 23,
+      "title": "Hóa lượng tử, tính toán và hạt nhân",
+      "terms": 87
+    },
+    {
+      "week": 24,
+      "title": "Tiếng Anh học thuật, viết tắt và tra cứu hóa học",
+      "terms": 134
+    }
+  ],
+  "sourcePdfCopied": 50,
+  "generatedAt": "2026-07-04T07:09:52"
+}
